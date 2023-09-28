@@ -71,3 +71,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# Package Manager Assets from Unity Asset Store
+/[Aa]ssets/AddOns*
+/[Aa]ssets/AddOns/Mg3D_Hats

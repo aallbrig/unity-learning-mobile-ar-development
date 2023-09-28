@@ -490,7 +490,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_FacePrefab: {fileID: 7689008217535128743, guid: 8ca1493ac8bfc41369bfb83d3ded2a82,
     type: 3}
-  m_MaximumFaceCount: 1
+  m_MaximumFaceCount: 8
 --- !u!1 &1167446570
 GameObject:
   m_ObjectHideFlags: 0
@@ -559,11 +559,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1844548835158360634, guid: bc8e54b1d62bd2f499826cdfa9d5d708,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f0a18de317f6d44cbb3d32d8fe3f0c62, type: 2}
     - target: {fileID: 3720199748111276690, guid: bc8e54b1d62bd2f499826cdfa9d5d708,
         type: 3}
       propertyPath: m_Name
