@@ -6,12 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Scene Selection.unity
+    guid: 9fb9319fe454c43059b8e8321d909a01
+  - enabled: 1
+    path: Assets/Scenes/Floating Object(s).unity
+    guid: 6e687ae69fa3a469aacf245e93a8ff15
+  - enabled: 1
+    path: Assets/Scenes/Basic Face Filter.unity
+    guid: 466feac7d65884def996f6c8a91ca013
+  - enabled: 1
     path: Assets/Scenes/Interactive Face Filter.unity
     guid: 13e5b1edf9edf4877ac320d2b8ea4935
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259,
+      type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: ecad46201ca834a758f84af306547fea,
       type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2a0877647120f4467a1056bf2709e30a,
       type: 2}
